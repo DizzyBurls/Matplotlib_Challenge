@@ -18,7 +18,7 @@
 
 	To run these scripts: 
 
-	(1) Open the Jupyter Source File which can be found in my Git Hub repository.
+	(1) Open the Jupyter Source File (pymaceutical_starter) which can be found in my Git Hub repository.
 
 	(2) Run it in a Jupyter notebook.
     
